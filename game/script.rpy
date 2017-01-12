@@ -27,7 +27,7 @@ init:
     image radheya pity = "resource/sprites/Radheya/Pity.png"
 
     #Background Image
-    image throne = "resource/images/throne.jpg"
+    image throne = "resource/images/throne-small.jpg"
     image throne fade:
         contains:
             "resource/images/throne.jpg"
