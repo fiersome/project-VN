@@ -1,0 +1,13 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 44: expected 'name' not found.
+    define ???_A = Character('{b}???-2{/b}', color="#FFFFFF",  what_suffix = ' ▼', show_two_window = True, what_slow_cps=30)
+           ^
+
+File "game/script.rpy", line 45: expected 'name' not found.
+    define ???_B = Character('{b}???{/b}', color="#FFFFFF",  what_suffix = ' ▼', show_two_window = True, what_slow_cps=30)
+           ^
+
+Ren'Py Version: Ren'Py 6.99.10.1227
